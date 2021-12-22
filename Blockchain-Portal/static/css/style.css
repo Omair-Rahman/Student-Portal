@@ -1,0 +1,30 @@
+h1{
+  color: black;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.txt-b{
+  color: black;
+}
+.l-up{
+  border-top-style: solid;
+}
+.error{
+  color: red;
+  font-weight: 900;
+}
+
+.mrt-5{
+  margin-top: 5%;
+}
+.mrb-5{
+  margin-bottom: 5%;
+}
+.welcome{
+  color: black;
+  text-shadow: 3px 3px #999;
+  font-size: 55px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 900;
+  border-bottom-style: groove;
